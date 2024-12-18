@@ -17,4 +17,4 @@
 > Anyways, I'm sure I'll find a way around it. If anyone knows how to deploy my current project in the repository "ilikewindws", on
 > a site with a name that Isn't github.io (withought paying), please feel free to email me at jawndough56@gmail.com.
 > ![image](https://raw.githubusercontent.com/jawndough96/jawndough96/refs/heads/main/references/Screenshot%202024-12-18%201.39.36%20PM.png)
-https://raw.githubusercontent.com/jawndough96/jawndough96.github.io/refs/heads/main/references/Screenshot 2024-12-18 1.39.36 PM.png
+![image 2](https://raw.githubusercontent.com/jawndough96/jawndough96/refs/heads/main/references/Screenshot%202024-12-18%202.12.55%20PM.png)
